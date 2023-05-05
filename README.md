@@ -1,13 +1,19 @@
 
 # Hi there, I'm Bruno 👋
 
+## Technologies
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+
 ## About Me
 
 I'm a passionate software developer who specializes in MERN stack. I have experience in developing web applications using MongoDB, Express.js, React.js, and Node.js. I'm also interested in machine learning and data science.
 
-## My Projects
-
-Here are some of my recent projects:
+## Most Recent Project
 
 - [MERN File System Generator](https://github.com/brunovmc/MERNFSGenerator): A shell script that creates a file structure for MERN stack projects.
 
