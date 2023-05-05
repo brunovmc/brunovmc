@@ -1,4 +1,24 @@
-### Hi there 👋
+
+# Hi there, I'm Bruno 👋
+
+## About Me
+
+I'm a passionate software developer who specializes in MERN stack. I have experience in developing web applications using MongoDB, Express.js, React.js, and Node.js. I'm also interested in machine learning and data science.
+
+## My Projects
+
+Here are some of my recent projects:
+
+- [Project Name 1](link-to-project): Short description of the project.
+- [Project Name 2](link-to-project): Short description of the project.
+- [Project Name 3](link-to-project): Short description of the project.
+
+## Contact Me
+
+Feel free to contact me via email or LinkedIn. I'm always interested in hearing about new opportunities and collaborating with others.
+
+- Email: [bruno.vidigal.coriolano@gmail.com](mailto:bruno.vidigal.coriolano@gmail.com)
+- LinkedIn: [Bruno Coriolano](https://www.linkedin.com/in/brunocoriolano/)
 
 <!--
 **brunovmc/brunovmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
