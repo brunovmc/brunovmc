@@ -3,10 +3,13 @@
 
 ## Technologies
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 
 ## About Me
