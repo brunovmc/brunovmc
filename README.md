@@ -9,9 +9,8 @@ I'm a passionate software developer who specializes in MERN stack. I have experi
 
 Here are some of my recent projects:
 
-- [Project Name 1](link-to-project): Short description of the project.
-- [Project Name 2](link-to-project): Short description of the project.
-- [Project Name 3](link-to-project): Short description of the project.
+- [MERN File System Generator](https://github.com/brunovmc/MERNFSGenerator): A shell script that creates a file structure for MERN stack projects.
+
 
 ## Contact Me
 
