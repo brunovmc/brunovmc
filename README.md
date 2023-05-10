@@ -10,7 +10,9 @@
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+##  Codewars
 
+![CodeWars Badge](https://www.codewars.com/users/brunovmc/badges/large)
 
 ## About Me
 
