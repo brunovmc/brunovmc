@@ -2,16 +2,16 @@
 
 ## Technologies
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/){:target="_blank"}
-[![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/){:target="_blank"}
-[![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/){:target="_blank"}
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/){:target="_blank"}
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)){:target="_blank"}
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/){:target="_blank"}
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## Codewars
 
-[![CodeWars Badge](https://www.codewars.com/users/brunovmc/badges/large)](https://www.codewars.com/users/brunovmc){:target="_blank"}
+[![CodeWars Badge](https://www.codewars.com/users/brunovmc/badges/large)](https://www.codewars.com/users/brunovmc)
 
 ## About Me
 
