@@ -19,6 +19,7 @@ I'm a passionate software developer who specializes in the MERN stack. I have ex
 
 ## Recent Certifications
 
+- [MongoDB Aggregation with Node.js](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/940d74f3-fdd2-4587-b25f-f306f02f252f-bruno-vidigal-e933c81e-9c3f-411b-b194-6490f5fab0e6-certificate.pdf)
 - [MongoDB and the Document Model](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/940d74f3-fdd2-4587-b25f-f306f02f252f-bruno-vidigal-16d8702a-8989-4410-a478-a399d1cded14-certificate.pdf)
 - [Connecting to MongoDB in Node.js](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/940d74f3-fdd2-4587-b25f-f306f02f252f-bruno-vidigal-e0c4e13a-9ef5-4e73-88c0-4c6564b880df-certificate.pdf)
 
