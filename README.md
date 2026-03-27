@@ -34,4 +34,3 @@ I'm a passionate software developer who specializes in the MERN stack. I have ex
 Feel free to contact me via email or LinkedIn. I'm always interested in hearing about new opportunities and collaborating with others.
 
 - Email: [bruno.vidigal.coriolano@gmail.com](mailto:bruno.vidigal.coriolano@gmail.com)
-- LinkedIn: [Bruno Coriolano](https://www.linkedin.com/in/brunocoriolano/)
